@@ -24,7 +24,7 @@ Bem-vindo ao repositório dedicado aos desafios do [Frontend Mentor](https://www
        <a href='#'><img src='https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sogk9gtrzrmsf2rzcj63.jpg' alt="Recipe page" ></a>
       <p>Recipe page</p>
       <span>HTML & CSS</span>
-      <p>Status:⌛Aguardando...</p>      
+      <p>Status:✅Concluído</p>      
     </td>
      <td align="center">
        <a href='#'><img src='https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sfsa14rwjz0wp7lzel2x.jpg' alt="Recipe page" ></a>
